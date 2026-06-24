@@ -1,6 +1,6 @@
 import random
 
-# List of predefined words
+# List of words
 words = ["python", "computer", "hangman", "program", "coding","developer","software","database","website","algorithm","function","variable","loop","condition","array"]
 
 # Choose a random word 
